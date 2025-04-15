@@ -4,8 +4,6 @@ OAuth Integration with HubSpot, Notion, and Airtable using Vue.js &amp; FastAPI.
 📌 Project Title
 VectorShift OAuth Integration: HubSpot, Notion & Airtable using Vue.js (Vite), Next.js & FastAPI
 
-📝 Project Description (Easy-to-Read)
-This project was completed as part of VectorShift's technical assessment. It involves implementing OAuth-based integration for HubSpot, while using the existing patterns of Notion and Airtable integrations.
 
 🔧 Tech Stack
 Frontend: Vue.js, Next.js (with Vite)
@@ -33,8 +31,6 @@ Tested using personal HubSpot OAuth client credentials
 
 Displayed fetched items via console (demo mode)
 
-📄 Modifications.md
-This document outlines the modifications and decisions made while completing the VectorShift Integration Technical Assessment.
 
 ⚙️ Frontend
 ✅ Switched to Vite (instead of CRA)
